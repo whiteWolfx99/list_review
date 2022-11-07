@@ -70,13 +70,6 @@ img {
   font-size: 15px;
 }
 
-.add-class button {
-  border: none;
-  background-color: #fff;
-  cursor: pointer;
-  padding: 0 10px 0 0;
-}
-
 .somepadd {
   padding: 0 7px 0 0;
   cursor: pointer;
@@ -162,7 +155,8 @@ img {
   padding: 0;
 }
 
-.removebtn button {
+.removebtn button,
+.add-class button {
   border: none;
   background-color: #fff;
   cursor: pointer;
